@@ -1,5 +1,5 @@
 ﻿Console.Clear();
-int numb = -32; //new Random().Next(100, 999);
+int numb = new Random().Next(100, 999);
 if (numb > 100 | numb < -100)
 {
     while (numb > 999 | numb < -999)
