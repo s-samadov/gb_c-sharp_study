@@ -22,12 +22,20 @@ void show_array(int[] array)
 int[] array = create_random_array(4, 0, 6);
 show_array(array);
 
+int omg_test = 0;
 int number = 5;
 for (int i = 0; i < array.Length; i++)
-{
+{   
     if (array[i] == number)
     {
-        Console.WriteLine(true);
-        break;
-    }
+        omg_test = 1;
+    } 
+}
+if (omg_test == 1)
+{
+    Console.WriteLine(true);
+}
+else
+{
+    Console.WriteLine(false);
 }
