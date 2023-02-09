@@ -1,0 +1,15 @@
+C:\Users\s.samadov\Desktop\gb_c-sharp_study\lecture_5-7\example_3\bin\Debug\net6.0\example_3.exe
+C:\Users\s.samadov\Desktop\gb_c-sharp_study\lecture_5-7\example_3\bin\Debug\net6.0\example_3.deps.json
+C:\Users\s.samadov\Desktop\gb_c-sharp_study\lecture_5-7\example_3\bin\Debug\net6.0\example_3.runtimeconfig.json
+C:\Users\s.samadov\Desktop\gb_c-sharp_study\lecture_5-7\example_3\bin\Debug\net6.0\example_3.dll
+C:\Users\s.samadov\Desktop\gb_c-sharp_study\lecture_5-7\example_3\bin\Debug\net6.0\example_3.pdb
+C:\Users\s.samadov\Desktop\gb_c-sharp_study\lecture_5-7\example_3\obj\Debug\net6.0\example_3.csproj.AssemblyReference.cache
+C:\Users\s.samadov\Desktop\gb_c-sharp_study\lecture_5-7\example_3\obj\Debug\net6.0\example_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.samadov\Desktop\gb_c-sharp_study\lecture_5-7\example_3\obj\Debug\net6.0\example_3.AssemblyInfoInputs.cache
+C:\Users\s.samadov\Desktop\gb_c-sharp_study\lecture_5-7\example_3\obj\Debug\net6.0\example_3.AssemblyInfo.cs
+C:\Users\s.samadov\Desktop\gb_c-sharp_study\lecture_5-7\example_3\obj\Debug\net6.0\example_3.csproj.CoreCompileInputs.cache
+C:\Users\s.samadov\Desktop\gb_c-sharp_study\lecture_5-7\example_3\obj\Debug\net6.0\example_3.dll
+C:\Users\s.samadov\Desktop\gb_c-sharp_study\lecture_5-7\example_3\obj\Debug\net6.0\refint\example_3.dll
+C:\Users\s.samadov\Desktop\gb_c-sharp_study\lecture_5-7\example_3\obj\Debug\net6.0\example_3.pdb
+C:\Users\s.samadov\Desktop\gb_c-sharp_study\lecture_5-7\example_3\obj\Debug\net6.0\example_3.genruntimeconfig.cache
+C:\Users\s.samadov\Desktop\gb_c-sharp_study\lecture_5-7\example_3\obj\Debug\net6.0\ref\example_3.dll
